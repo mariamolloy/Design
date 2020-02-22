@@ -1,0 +1,32 @@
+The Marketplace: 
+
+Developing a visually appealing, dynamic website or application can be a tedious process. One
+challenge is ensuring the development team’s design work matches the vision of the client before
+commencing with full-scale development. A solution is to develop prototypes that can be shared
+with stakeholders (e.g., the design and development team, clients, and end users). Prototyping
+allows designers the ability to map out the flow of users through a site as they interact with page
+elements and provides a medium for teams and clients to gain a better understanding of how the
+website or application looks, feels, and performs, enabling a more efficient process for revisions
+in the early stages of the project.
+
+Undergraduate students collaborated with a faculty mentor to design a prototype of an online
+marketplace iPhone application for college students to buy and sell products to one another (e.g.,
+textbooks, electronics, clothing, etc.). Students would log in using their secure college-issued
+credentials, thereby verifying users are current students at the host institution, and select options
+to either buy or sell items. The application would allow users to pay for the items in cash or
+using a credit card. The development of this prototype was enabled by two design frameworks:
+Figma and InVision. Figma, a platform facilitating real time collaboration and tools for
+developing screens, was used to create static graphic screens for the application. The screens
+were saved as PNG files that were exported and uploaded into InVision. InVision is a
+prototyping tool for designers with functionality that enables mockups before developing a full
+codebase. The system integrates with graphics editing software (e.g., Figma, Photoshop,
+Illustrator, and Sketch) to allow screen design prototypes that can be presented and
+collaboratively reviewed with team members and clients. The software provides a platform for
+prototyping the appearance and feel of a dynamic application to gain an understanding of how it
+would look and perform in production. 
+
+The Marketplace was accepted into the 2020 ACM New York Celebration of Women in Computing in Poughkeepsie, NY.
+
+
+View and interact with The Marketplace here:
+https://invis.io/5MUEXACRU8H
